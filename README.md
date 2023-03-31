@@ -9,12 +9,14 @@ This repository contains the code for the exam project in the Data Science Class
 Since GitHub doesn't accept files larger than 25 MB, large datafiles and saved models are uploaded in google drive, and can be downloaded from here: 
 [Google Drive](https://drive.google.com/drive/folders/1IlzLLjC91VWXk47Z4oNbRCpK-oPjfYsV?usp=sharing)
 
-Please download all the files in the drive folder, and add them locally in the repository on your machine, if you wish to run the code. 
+Please download and unzip the files in the drive folder, and add them locally in the repository on your machine, if you wish to run the code. 
+
+It is not advised to run the full "Modelling" notebook, since the training of the advanced models runs for a significant amount of time. To see model performances, access "Evaluation" after downloading the data and the saved models from google drive. 
 
 Furthermore the folder "Other" contains files used under processing the data. 
 - process_1mil.ipynb
 - process_2mil.ipynb
 
-
+To run the processing files, you will need to download the entire Fake News Corpus (avaliable [here](https://github.com/several27/FakeNewsCorpus)), and add it locally to your repository. The cleaning of the data might also run for several hours, so only do this if you have a lot of time allocated! 
 
 
