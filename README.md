@@ -1,7 +1,7 @@
 # Fake News Project - Group 44
 
 This repository contains the code for the exam project in the Data Science Class at UCPH for block 3, 2022/2023.
-- Report.ipynb 
+- Modelling.ipynb 
 - Evaluation.ipynb
 
 Furthermore the folder "Other" contains files used under processing the data. 
